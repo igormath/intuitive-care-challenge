@@ -51,7 +51,6 @@ npm run dev
 ![Interface web em Vue.js](https://i.imgur.com/kb3bCZh.gif)<br>
 #### Coleção com a requisição no Postman<br>
 <img src="https://i.imgur.com/IL3bXN6.jpeg" alt="drawing" width="800"/>
-<br>
 
 ## Referências utilizadas:
 ### Web Scraping:
