@@ -53,8 +53,6 @@ npm run dev
 <img src="https://i.imgur.com/IL3bXN6.jpeg" alt="drawing" width="800"/>
 <br>
 
-[Imagem em maior resolução](https://i.imgur.com/IL3bXN6.jpeg)
-
 ## Referências utilizadas:
 ### Web Scraping:
 - [Geekhunter - Como fazer web scraping python de maneira fácil e rápida](https://blog.geekhunter.com.br/como-fazer-um-web-scraping-python/)
