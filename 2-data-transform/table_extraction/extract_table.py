@@ -11,7 +11,7 @@ def data_extraction():
         os.makedirs(diretorio_csvs)
 
     # Abrindo o PDF
-    pdf = pdfplumber.open('../web-scraping/downloaded_pdfs/AnexoI.pdf')
+    pdf = pdfplumber.open('../1-web-scraping/downloaded_pdfs/AnexoI.pdf')
 
     # Lista para armazenar os dados concatenados
     dados_concatenados = []
